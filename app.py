@@ -1,3 +1,5 @@
+# Part 1: Use this code for Live working or live ASCII Converter. Comment tne code of static ascii converter (Part 2).
+
 ''' 
 import pygame
 import pygame.camera

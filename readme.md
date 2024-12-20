@@ -1,3 +1,5 @@
+# ASCII-Kuttappan
+
 **ASCII-Kuttappan** is a fun and interactive Python project that converts live webcam feeds or images into ASCII art in real-time using the power of **Pygame** and ASCII characters. It includes options to customize resolution, contrast, and even supports drag-and-drop for loading images.
 
 ## Features

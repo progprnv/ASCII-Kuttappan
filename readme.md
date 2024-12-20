@@ -73,6 +73,17 @@ Install all dependencies with:
 pip install -r requirements.txt
 ```
 
+## Live Working
+
+
+![WhatsApp Image 2024-12-16 at 02 31 17_942a8ec9](https://github.com/user-attachments/assets/02baa47f-1445-41d6-b79d-0c1bea049fff)
+
+
+![WhatsApp Image 2024-12-16 at 02 31 15_30375a80](https://github.com/user-attachments/assets/e978d263-0fd1-4997-8fd4-8aa6df43a91b)
+
+
+
+
 ---
 
 ## To Do

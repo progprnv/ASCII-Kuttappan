@@ -177,6 +177,8 @@ pygame.quit()
 '''
 
 
+# Part 2 : Below code snippet uses existing image from the source and then converts it to Ascii
+# copy this code for static ascii converter. Comment the codes of the aove live ASCII converter.
 import pygame
 from pygame import Surface
 

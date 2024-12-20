@@ -97,5 +97,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Inspired from 
+- Thank you @https://github.com/KaladharanLal
 

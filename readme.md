@@ -34,7 +34,7 @@
 
 3. Run the script:
    ```bash
-   python ascii_kuttappan.py
+   python app.py
    ```
 
 ---

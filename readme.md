@@ -11,7 +11,7 @@
 - 📜 Minimal dependencies and easy-to-run codebase.
 
 ---
-
+ 
 ## Getting Started
 
 ### Prerequisites
